@@ -69,23 +69,33 @@
   <ItemGroup>
     <Content Include="css\StyleSheet.css" />
     <Content Include="img\background1.jpg" />
+    <Content Include="img\Bimbo.jpeg" />
     <Content Include="img\Bimcode .png" />
     <Content Include="img\Bimcode 1.png" />
     <Content Include="img\Bimcode 3.png" />
     <Content Include="img\Bimcode 5.png" />
+    <Content Include="img\Bimcode.jpeg" />
+    <Content Include="img\Bimcode10.jpeg" />
     <Content Include="img\Bimcode11.png" />
     <Content Include="img\Capture1.JPG" />
+    <Content Include="img\deep-web-cover.jpeg" />
+    <Content Include="img\deepdown.jpeg" />
+    <Content Include="img\fiyin.jpeg" />
+    <Content Include="img\fiyin2.jpeg" />
+    <Content Include="img\Inny.jpeg" />
     <Content Include="img\Learn.png" />
     <Content Include="img\learn2.png" />
     <Content Include="img\learn3.png" />
     <Content Include="img\logo-jhipster.png" />
     <Content Include="img\mackback.jpg" />
     <Content Include="img\newpageimage.png" />
+    <Content Include="img\Ola.jpeg" />
     <Content Include="img\pageimage.png" />
     <Content Include="img\person1.jpg" />
     <Content Include="img\person2.jpg" />
     <Content Include="img\person3.jpg" />
     <Content Include="img\person4.jpg" />
+    <Content Include="img\PhotoGrid_1612902180909.png" />
     <Content Include="index.html" />
     <Content Include="lib\bootstrap\css\bootstrap-grid.css" />
     <Content Include="lib\bootstrap\css\bootstrap-grid.min.css" />
@@ -97,6 +107,7 @@
     <Content Include="lib\bootstrap\js\bootstrap.bundle.min.js" />
     <Content Include="lib\bootstrap\js\bootstrap.js" />
     <Content Include="lib\bootstrap\js\bootstrap.min.js" />
+    <Content Include="lib\bootstrap\js\navbar-fixed.js" />
     <Content Include="lib\font-awesome\css\font-awesome.css" />
     <Content Include="lib\font-awesome\css\font-awesome.min.css" />
     <Content Include="lib\font-awesome\fonts\fontawesome-webfont.svg" />
@@ -104,7 +115,7 @@
     <Content Include="lib\jquery\jquery.min.js" />
     <Content Include="lib\jquery\jquery.slim.js" />
     <Content Include="lib\jquery\jquery.slim.min.js" />
-    <Content Include="Stylesheep.css" />
+    <Content Include="login.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -228,7 +239,6 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
