@@ -57,19 +57,19 @@ h3 {
     width:100%;
     height:100%;
 }
-/*#about{*/
-/*    background:url("../img/deepdown.jpeg");*/
-/*    min-height:600px;*/
-/*    position:relative;*/
-/*}*/
-/*#about .primary-overlay{*/
-/*    background-color:rgba(225, 213, 240,0.9);*/
-/*    position:absolute;*/
-/*    top:0;*/
-/*    left:0;*/
-/*    width:100%;*/
-/*    height:100%;*/
-/*}*/
+#about{
+    background:url("../img/deepdown.jpeg");
+    min-height:600px;
+    position:relative;
+}
+#about .primary-overlay{
+    background-color:rgba(225, 213, 240,0.9);
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
 .text-black{
     font-size: 30px;
     color: whitesmoke;
